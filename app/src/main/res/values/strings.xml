@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AGameOfIceAndFire</string>
+    <string name="correct_answer">CORRECT ANSWER</string>
+    <string name="wrong_answer">WRONG ANSWER</string>
+</resources>
